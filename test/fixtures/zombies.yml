@@ -1,0 +1,18 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  graveyard: MyString
+
+two:
+  name: MyString
+  graveyard: MyString
+  
+ash:
+  id: 1
+  name: Ash
+  graveyard: Oak Park
+  
+tim: 
+  name: Tim
+  graveyard: Green Meadows

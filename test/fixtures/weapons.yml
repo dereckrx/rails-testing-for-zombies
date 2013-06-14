@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  zombie: 
+
+two:
+  name: MyString
+  zombie: 
+    
+w1:
+  name: axe
+  zombie_id: 1
